@@ -10,6 +10,7 @@
 #include "nsContentSecurityUtils.h"
 #include "nsContentPolicyUtils.h"
 #include "nsEscape.h"
+#include "TrackerScriptBlocker.cpp"
 #include "nsDataHandler.h"
 #include "nsIChannel.h"
 #include "nsIContentPolicy.h"
